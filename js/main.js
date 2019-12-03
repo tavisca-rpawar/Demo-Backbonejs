@@ -19,7 +19,6 @@ const gadgetsCollection = new GadgetsCollection([
     new Tablet({ name: "IPad 6", price: 72000}),
 
 ]);
- 
 // Create Gadgets View
 const GadgetsView = Backbone.View.extend({
     el: '#table-body',
