@@ -1,0 +1,20 @@
+{
+    "gadget": [
+        {
+            "name": "IPhone XR",
+            "price": 7538
+        },
+        {
+            "name": "Samsung S10",
+            "price": 7538
+        },
+        {
+            "name": "Surface Pro",
+            "price": 7538
+        },
+        {
+            "name": "IPad 6",
+            "price": 7538
+        }
+    ]
+}
